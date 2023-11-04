@@ -456,7 +456,7 @@ plot_model(aov.deer, type = "pred", terms = c("Year", "Treatment", "Plot.type"))
 
 Wichtig dabei ist, dass Korrelationen keine Kausalität voraussetzen oder annehmen. Es gibt also keine abhängige und unabhängige Variable, keine Unterscheidung in Prädiktor- und Antwortvariable. Logischerweise liefern Korrelationen dann auch identische Ergebnisse, wenn *x*- und *y-*Achse vertauscht werden.
 
-Die folgenden fünf Abbildungen zeigen verschiedene Situationen. Bei (a) liegt eine positive Korrelation vor, bei (b) eine negative und bei (c)--(e) keine Korrelation. Bei (e) erkennt man zwar visuell eine Beziehung (ein "Peak" in der Mittel, also eine unimodale Beziehung), aber das ist eben kein linearer Zusammenhang.
+Die folgenden fünf Abbildungen zeigen verschiedene Situationen. Bei (a) liegt eine positive Korrelation vor, bei (b) eine negative und bei (c)--(e) keine Korrelation. Bei (e) erkennt man zwar visuell eine Beziehung (ein "Peak" in der Mitte, also eine unimodale Beziehung), aber das ist eben kein linearer Zusammenhang.
 
 ![(aus Quinn & Keough 2002)](./images/media/image41.png){width=70% fig-align="center"}
 
