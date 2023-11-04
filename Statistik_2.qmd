@@ -448,7 +448,7 @@ plot_model(aov.deer, type = "pred", terms = c("Year", "Treatment", "Plot.type"))
 
 ## Korrelationen
 
-**Pearson-Korrelationen** analysieren den Zusammenhang zwischen zwei metrischen Variablen** und beantworten dabei die folgenden Fragen:
+**Pearson-Korrelationen** analysieren den Zusammenhang zwischen zwei metrischen **Variablen** und beantworten dabei die folgenden Fragen:
 
 - Gibt es einen **linearen** Zusammenhang?
 - In welche Richtung läuft er?
