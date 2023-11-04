@@ -539,7 +539,7 @@ odds ratio
   12.22697
 ```
 
-Wie man der Ausgabe entnehmen kann ist die Teststatistik hier die sogenannte ***odds ratio***, ein Term für den es keine gute deutsche Übersetzung gibt. Sie bezeichnet die **Wahrscheinlichkeit des Eintretens geteilt durch die Wahrscheinlichkeit des Nichteintretens**. Aus der Umgangssprache und Wettspielen sind wir bereits vertraut mit *odds ratios*: "50:50-Chancen" bezeichnen nichts anderes als eine *odds ratio* von 1 (50 / 50 = 1). Bei einem Assoziationstest ist entspricht der *odds rati*o die Multiplikation der Wahrscheinlichkeiten auf der einen Diagonalen geteilt durch jene der anderen Diagonalen, also (38 x 51) / (14 x 11).
+Wie man der Ausgabe entnehmen kann ist die Teststatistik hier die sogenannte ***odds ratio***, ein Term für den es keine gute deutsche Übersetzung gibt. Sie bezeichnet die **Wahrscheinlichkeit des Eintretens geteilt durch die Wahrscheinlichkeit des Nichteintretens**. Aus der Umgangssprache und Wettspielen sind wir bereits vertraut mit *odds ratios*: "50:50-Chancen" bezeichnen nichts anderes als eine *odds ratio* von 1 (50 / 50 = 1). Bei einem Assoziationstest ist entspricht die *odds ratio* einer Multiplikation der Wahrscheinlichkeiten auf der einen Diagonalen geteilt durch jene der anderen Diagonalen, also (38 x 51) / (14 x 11).
 
 ## Wie berichte ich statistische Ergebnisse?
 
